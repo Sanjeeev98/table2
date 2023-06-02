@@ -1,0 +1,327 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#box1{
+    position: fixed;
+    z-index: 1;
+    display: flex;
+    justify-content: space-around; 
+    height: 70px;
+    width: 100%;
+    
+    background-color: black;
+}
+#box1 .dog1{
+    
+    width: 140px;
+    height: 70px;
+  
+}
+.dog2{
+    margin-top: 17px;
+    width: 130px;
+    height: 35px;
+    
+}
+ .dog1 img{
+    width: 140px;
+    height: 70px;
+} 
+.dog3 input{
+    margin-top: 17px;
+    width: 300px;
+    height: 30px;
+    border-radius: 10px ;
+    padding: 2px;
+    
+}
+.dog4{
+    margin-top: 29px;
+    width: 50px;
+    height: 20px;
+     
+}
+.dog4 img{
+    width: 20px;
+    height: 20px;
+}
+.dog5{
+    margin-top: 17px;
+        width: 120px;
+        height: 33px;
+         
+    
+}
+.dog6{
+    margin-top: 17px;
+    width: 60px;
+    height: 33px;
+      
+
+}
+.dog7{
+    margin-top: 17px;
+    
+    width: 80px;
+    height: 33px;
+      
+
+}
+.dog7 img{
+    
+    width: 40px;
+    height: 33px;
+
+}
+#box1 h4{
+    border-radius: 5px;
+    cursor: pointer;
+    color:#ffffff;
+}
+#box1 h5{
+    border-radius: 5px;
+    cursor: pointer;
+    color:#ffffff;
+}
+#box1 p{
+    border-radius: 5px;
+    cursor: pointer;
+    color:#ffffff;
+}
+.dog1:hover{
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid #ffffff;
+}
+.dog2:hover{
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid #ffffff;
+}
+
+.dog5:hover{
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid #ffffff;
+}
+.dog6:hover{
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid #ffffff;
+}
+.dog7:hover{
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid #ffffff;
+}
+#box2{
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    background-color:#002d4b;
+    
+      width:100%;
+    height: 25px; 
+   
+    margin-top: 70px;
+}
+#box2 h3{
+    color: #ffffff;
+} 
+.cat1{
+    width: 70px;
+    height: 25px;
+}
+.cat2{
+    width: 134px;
+    height: 25px;
+}
+.cat3{
+    width: 40px;
+    height: 25px;
+}
+.cat4{
+    width: 95px;
+    height: 25px;
+}
+.cat5{
+    width: 110px;
+    height: 25px;
+}
+.cat6{
+    width: 65px;
+    height: 25px;
+}
+.cat8{
+    width: 90px;
+    height: 25px;
+}
+.cat9{
+    width: 110px;
+    height: 25px;
+}
+.cat10{
+    width: 50px;
+    height: 25px;
+}
+.cat11{
+    width: 300px;
+    height: 25px;
+}
+.cat1:hover{
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.cat2:hover{
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.cat3:hover{
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.cat4:hover{
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid #ffffff;
+}
+.cat5:hover{
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid #ffffff;
+}.cat6:hover{
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid #ffffff;
+}
+.cat8:hover{
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid #ffffff;
+}
+.cat9:hover{
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid #ffffff;
+}
+.cat10:hover{
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid #ffffff;
+}
+.cat11:hover{
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid #ffffff;
+}
+#box3{
+    position: absolute;
+    margin-top: 95px;
+    width: 100%;
+    height: 650px;
+}
+ .moon2{
+    position: absolute;
+    width: 300px;
+    height: 350px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: -370px; 
+}  
+.moon3{
+    position: absolute;
+    width: 300px;
+    height: 350px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-left: 350px;
+    margin-top: -370px; 
+}
+.moon4{
+    position: absolute;
+    width: 300px;
+    height: 350px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-left: 680px;
+    margin-top: -370px; 
+}
+.moon5{
+    position: absolute;
+    width: 200px;
+    height: 350px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-left: 1005px;
+    margin-top: -370px; 
+}
+#box4{
+     display: flex; 
+     justify-content: space-around;
+    background-color: #002d4b;
+    position: absolute;
+    width: 100%;
+    height: 200px;
+    margin-top: 745px;
+}
+.sun1{
+    margin-top: 40px; 
+    width: 200px;
+    height: 120px;
+    
+}
+.sun2{
+    margin-top: 40px;
+    width: 200px;
+    height: 120px;
+   
+}
+.sun3{
+    
+    margin-top: 40px; 
+    width: 200px;
+    height: 132px;
+    
+}
+.sun4{
+    
+    margin-top: 40px; 
+    width: 200px;
+    height: 132px;
+    
+}
+#box4 p{
+    color: #ffffff;
+}
+#box4 h4{
+    text-decoration: underline;
+    color: #ffffff;
+}
+#box4 p:hover{
+text-decoration: underline;
+cursor: pointer;
+}
+.sun5{
+    width: 130px;
+    height: 90px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+ .sun5{
+    display: none;
+} 
+.sun5 p{
+    padding-left: 5px;
+} 
+#box1 .dog4:hover .sun5{
+    display: block;
+}    
+    
+
+
+ 
